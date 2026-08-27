@@ -1,0 +1,74 @@
+0000000000000000000000000000000000000000 c17e0a3626bb7cc751e6007871a75e55b0c42e63 ai-memory <ai-memory@local> 1784903569 +0000	commit (initial): upgrade baseline: existing wiki tree before recovery checkpoints
+c17e0a3626bb7cc751e6007871a75e55b0c42e63 7069855d61ff1b237cbbfbb234ce9aa8c91701b3 ai-memory <ai-memory@local> 1784904158 +0000	commit: write-page default/ai: decisions/ai-memory-adoption.md
+7069855d61ff1b237cbbfbb234ce9aa8c91701b3 11a756602a36d1ad2191c8d7e6dc4a8ed9b98df0 ai-memory <ai-memory@local> 1784904198 +0000	commit: session d046d308: Are aware of ai-memory?
+11a756602a36d1ad2191c8d7e6dc4a8ed9b98df0 780f3cad8259ebabcd1bba9d0c8c8b8af6abfd59 ai-memory <ai-memory@local> 1784904231 +0000	commit: session cdb16d32: Is the a way to have a claude.local.md? I don't want commit
+780f3cad8259ebabcd1bba9d0c8c8b8af6abfd59 5242e27719b0c33bc9162ec461b9dd5e0e9625c2 ai-memory <ai-memory@local> 1784915487 +0000	commit: session fdc2ca48: /caveman
+5242e27719b0c33bc9162ec461b9dd5e0e9625c2 f95fc15a66b261d7db545fe2c99c84dcc5000052 ai-memory <ai-memory@local> 1784919049 +0000	commit: session c27c941d: /caveman
+f95fc15a66b261d7db545fe2c99c84dcc5000052 1f5c5fe23845cb9cf6bb1b178a701e6b59d15ea2 ai-memory <ai-memory@local> 1784924324 +0000	commit: session c1985e4a: /caveman
+1f5c5fe23845cb9cf6bb1b178a701e6b59d15ea2 d0420a3e3bfd01369311cf63ac687d1df8247e2c ai-memory <ai-memory@local> 1785158654 +0000	commit: session d90495ed: are you aware of ai-memory?
+d0420a3e3bfd01369311cf63ac687d1df8247e2c 631e12151b7326a15e63967a5c02e27f61c300bb ai-memory <ai-memory@local> 1785160123 +0000	commit: session b6538ef3: /review https://github.com/higgco/api.higg.org/pull/9994 Jir
+631e12151b7326a15e63967a5c02e27f61c300bb baf0b4047cd728c70d64a794bb91a2cb685b09d4 ai-memory <ai-memory@local> 1785181189 +0000	commit: session fd80ebd7: Is the PR updated?
+baf0b4047cd728c70d64a794bb91a2cb685b09d4 c3c7e69a970e79a035bc162939ffe82147677ba6 ai-memory <ai-memory@local> 1785250887 +0000	commit: session 20a3fec8: /caveman
+c3c7e69a970e79a035bc162939ffe82147677ba6 5774c74924efeeebe9542c1834c8bb1ed9bc5cf7 ai-memory <ai-memory@local> 1785255856 +0000	commit: session 21c212c0: /tdd docs/specs/HIGG-42667-anonymized-msi-material-import-sp
+5774c74924efeeebe9542c1834c8bb1ed9bc5cf7 41adf2d7d7689c38e110c48b595b79b083bb95b3 ai-memory <ai-memory@local> 1785256352 +0000	commit: session 5c6fe2de: /pr-review-toolkit:review-pr https://github.com/higgco/api.h
+41adf2d7d7689c38e110c48b595b79b083bb95b3 44da33a34001db5dbf1aaf9d63e35e1cc0c153ea ai-memory <ai-memory@local> 1785265984 +0000	commit: session 0a86a02c: /caveman
+44da33a34001db5dbf1aaf9d63e35e1cc0c153ea b53c43bf5253262b88bf9e6505fd9aad0028fa0a ai-memory <ai-memory@local> 1785268474 +0000	commit: session 2c479968: /debug FrenchLabelPublishLibrary.validateProConnectId Jira H
+b53c43bf5253262b88bf9e6505fd9aad0028fa0a dd313b0f844fc3f3a2eec8ce71d683801c77bb14 ai-memory <ai-memory@local> 1785350612 +0000	commit: session f0cf96f9: /review double check the Jira ticket
+dd313b0f844fc3f3a2eec8ce71d683801c77bb14 fd8c0ea02c8566bd10c1d3cdcb766ea9a47c1304 ai-memory <ai-memory@local> 1785351987 +0000	commit: session bc278eaf: I want to test the script by add logs comparing the calculat
+fd8c0ea02c8566bd10c1d3cdcb766ea9a47c1304 4f9d1faf6cddc255f213f526666dcd80621d0b3c ai-memory <ai-memory@local> 1785428463 +0000	commit: memory_write_page: notes/higg-42667-chemistry-score-divergence.md
+4f9d1faf6cddc255f213f526666dcd80621d0b3c 6b5f776ae06eaf671ed171178221ba62a6296bc2 ai-memory <ai-memory@local> 1785430614 +0000	commit: memory_write_page: notes/higg-42667-chemistry-score-divergence.md
+6b5f776ae06eaf671ed171178221ba62a6296bc2 b4ed6f883c466c47df8689cd1c1b1e5bfde4bc0d ai-memory <ai-memory@local> 1785430818 +0000	commit: session 1175288c: Review and implement what is missing from docs/specs/HIGG-42
+b4ed6f883c466c47df8689cd1c1b1e5bfde4bc0d 7b656b7a7c1fb94a05c9448cdbf78c83d2e7dd28 ai-memory <ai-memory@local> 1785776476 +0000	commit: session 6c073541: Take some time to understand the current changes and then ru
+7b656b7a7c1fb94a05c9448cdbf78c83d2e7dd28 0371491cdac32eaec8ab95e3c70576c61e864482 ai-memory <ai-memory@local> 1785859699 +0000	commit: session 6778d9d7: claude-sonnet-5
+0371491cdac32eaec8ab95e3c70576c61e864482 c0a352f99cf3f60e2d8d704e50344ff95c4832e3 ai-memory <ai-memory@local> 1785945185 +0000	commit: memory_write_page: tickets/higg-42501.md
+c0a352f99cf3f60e2d8d704e50344ff95c4832e3 c31adee0e7582162caa78c9f5d5e6b331179c68f ai-memory <ai-memory@local> 1785945203 +0000	commit: session 514be50f: /caveman
+c31adee0e7582162caa78c9f5d5e6b331179c68f 7c7d30b108ac4ccd0f6fa75fe0f8de3f145b5bd7 ai-memory <ai-memory@local> 1785946126 +0000	commit: session d5ff7818: /caveman
+7c7d30b108ac4ccd0f6fa75fe0f8de3f145b5bd7 522bf323b1f3851b16b7ebb015cf55359c341d04 ai-memory <ai-memory@local> 1785947011 +0000	commit: session 9913c8cb: /spec docs/briefs/HIGG-43407-implement-msi-job-timeout-handl
+522bf323b1f3851b16b7ebb015cf55359c341d04 e2483e307cb957a994dce0c82ff29b85925e3595 ai-memory <ai-memory@local> 1786036169 +0000	commit: session 82396938: ## Follow-Up Ticket (Out of Scope): FE Sync Status Polling G
+e2483e307cb957a994dce0c82ff29b85925e3595 63342e01fdc7d9a53e29b538f714fddd5ee803c7 ai-memory <ai-memory@local> 1786036366 +0000	commit: session c7ed2cfe: /tdd docs/specs/HIGG-43407-implement-msi-job-timeout-handlin
+63342e01fdc7d9a53e29b538f714fddd5ee803c7 eec10647932da15f9f6a036da469ed2ff74568bd ai-memory <ai-memory@local> 1786117297 +0000	commit: session b1478f89: Address all pr comments and reviews and be critic about them
+eec10647932da15f9f6a036da469ed2ff74568bd e3c2224b4297cd820bc0b0d01a3f13a236c295ea ai-memory <ai-memory@local> 1786117306 +0000	commit: session c4b84994: Address all pr comments and reviews and be critic about them
+e3c2224b4297cd820bc0b0d01a3f13a236c295ea c4cbdc45b01c414fed408e133cd44af008d4b107 ai-memory <ai-memory@local> 1786117671 +0000	commit: session 38167605: npm run start is failing [19:14:56] INFO: Environment: local
+c4cbdc45b01c414fed408e133cd44af008d4b107 c46b7fbe8f7fd02ac09bf199c7944033edec5961 ai-memory <ai-memory@local> 1786117722 +0000	commit: session 32e2e669: /caveman:caveman
+c46b7fbe8f7fd02ac09bf199c7944033edec5961 d84e62af2a5bd235e1e1eaee04f302f1cce4e2ee ai-memory <ai-memory@local> 1786120916 +0000	commit: session 1ab2ae23: /caveman:caveman
+d84e62af2a5bd235e1e1eaee04f302f1cce4e2ee 27eee8265142538843c928a43d6f898ad9f54970 ai-memory <ai-memory@local> 1786122555 +0000	commit: session 3f9b0db2: /spec docs/briefs/HIGG-43184-list-all-activities-query-brief
+27eee8265142538843c928a43d6f898ad9f54970 691b22bd271f183cc1f03d398bf297d051c1335a ai-memory <ai-memory@local> 1786123936 +0000	commit: session fd666cc3: /tdd docs/specs/HIGG-43184-list-all-activities-query-spec.md
+691b22bd271f183cc1f03d398bf297d051c1335a 5f025910f3726ae1de5463af16e953ebd69d4c45 ai-memory <ai-memory@local> 1786368351 +0000	commit: session 4eb67176: Append to docs/briefs/HIGG-43184-list-all-activities-query-b
+5f025910f3726ae1de5463af16e953ebd69d4c45 8c859a80377943b913c55ec544877abe36fd5276 ai-memory <ai-memory@local> 1786384158 +0000	commit: session 8132ddc2: /spec See my implementation of https://github.com/higgco/wor
+8c859a80377943b913c55ec544877abe36fd5276 2e8ef47a804c1b607ee759444fecaddd8983b047 ai-memory <ai-memory@local> 1786385614 +0000	commit: session 572d13a0: /caveman
+2e8ef47a804c1b607ee759444fecaddd8983b047 7138dcd5d25084781ad26a1d94da1c0c3d9d62aa ai-memory <ai-memory@local> 1786388866 +0000	commit: session fd84ca0e: /tdd docs/specs/HIGG-43183-distinct-activity-names-spec.md E
+7138dcd5d25084781ad26a1d94da1c0c3d9d62aa 262e37ce07e6fe7e7b47ea1dc13d3f3723548b69 ai-memory <ai-memory@local> 1786389731 +0000	commit: session b754864e: /pr-review-toolkit:review-pr Use Fable and post your review
+262e37ce07e6fe7e7b47ea1dc13d3f3723548b69 d0c2e1098b275c5c099dbe03ef80f92cb4ec864a ai-memory <ai-memory@local> 1786552685 +0000	commit: memory_write_page: notes/higg-43340-anon-fem-data-copy.md
+d0c2e1098b275c5c099dbe03ef80f92cb4ec864a f0558f42be4deb38ad06f11a7ccd5e4012fb72ae ai-memory <ai-memory@local> 1786552822 +0000	commit: memory_write_page: notes/higg-43340-anon-fem-data-copy.md
+f0558f42be4deb38ad06f11a7ccd5e4012fb72ae 309d5585b6d35de39959228f6bcc2a116b508dbb ai-memory <ai-memory@local> 1786553827 +0000	commit: session 9738d97c: Take some time to understand ts/scripts/anon
+309d5585b6d35de39959228f6bcc2a116b508dbb 4f33d419a54b54b89d168e18ef7b74b4c05bce3b ai-memory <ai-memory@local> 1786560451 +0000	commit: session 457607d1: Continuing from last session, how can we add more logs to ts
+4f33d419a54b54b89d168e18ef7b74b4c05bce3b a8ae9ad7838028c49871f9ea7838c9a54f1855b9 ai-memory <ai-memory@local> 1786574423 +0000	commit: session 577ed98f: What are the risks of running the scripts you created? Be co
+a8ae9ad7838028c49871f9ea7838c9a54f1855b9 97f32175f3bf530c13e77aad48f0c56d91c945c1 ai-memory <ai-memory@local> 1786728987 +0000	commit: session fa9c4f5c: claude-sonnet-5
+97f32175f3bf530c13e77aad48f0c56d91c945c1 b12ec060987d00c108221d4c62c74fafcf25a05a ai-memory <ai-memory@local> 1786730839 +0000	commit: session e31ec337: /caveman
+b12ec060987d00c108221d4c62c74fafcf25a05a 3af5b94b6c62579b80aa5fada6ee5b63a3f356cf ai-memory <ai-memory@local> 1786734715 +0000	commit: session fc16ad58: /tdd docs/specs/HIGG-43625-add-matlib-activitynames-query-sp
+3af5b94b6c62579b80aa5fada6ee5b63a3f356cf a0a485855f517814bc7f308d73f4e75e1f5778ea ai-memory <ai-memory@local> 1786987333 +0000	commit: session d1ae6e91: /pr-review Address all the pr comments and reviews as well.
+a0a485855f517814bc7f308d73f4e75e1f5778ea 3946ad7a5839129f0b0e735a68ead2302cde56b6 ai-memory <ai-memory@local> 1786989183 +0000	commit: session e686aa04: Address the PR comments.
+3946ad7a5839129f0b0e735a68ead2302cde56b6 5009c422467562befe001baa217c221ad6bc5210 ai-memory <ai-memory@local> 1786989762 +0000	commit: session c677e4c0: /spec learn from PR https://github.com/higgco/api.higg.org/p
+5009c422467562befe001baa217c221ad6bc5210 01afa28bf384d1a97acacfc2dbe7fe64a42d9888 ai-memory <ai-memory@local> 1787060780 +0000	commit: session 7d4e5eca: /tdd docs/specs/HIGG-43626-add-matlib-allactivities-query-sp
+01afa28bf384d1a97acacfc2dbe7fe64a42d9888 2eef160c720a6435a447e5a725d2d4d882c8f5e9 ai-memory <ai-memory@local> 1787061105 +0000	commit: session 84b712db: Fix all the PR conflicts and push https://github.com/higgco/
+2eef160c720a6435a447e5a725d2d4d882c8f5e9 486d4b779e1bd38c2740cd34c14c583fdfa7f71c ai-memory <ai-memory@local> 1787078932 +0000	commit: memory_write_page: decisions/matlib-picstage-org-gap.md
+486d4b779e1bd38c2740cd34c14c583fdfa7f71c f77109b0da09ac6e86c89acd09b2b2478f53b1e9 ai-memory <ai-memory@local> 1787079541 +0000	commit: session f94c8dce: /gsd-debug  Help me to investigate why I don't have the orga
+f77109b0da09ac6e86c89acd09b2b2478f53b1e9 3a36049be3417207adf3fa90206cf5cf1e032b1e ai-memory <ai-memory@local> 1787080188 +0000	commit: memory_write_page: tickets/higg-42501.md
+3a36049be3417207adf3fa90206cf5cf1e032b1e 2fc88a8006d89ba5b4bc6259e3538ef7bcc92b3c ai-memory <ai-memory@local> 1787080487 +0000	commit: memory_write_page: tickets/higg-42501.md
+2fc88a8006d89ba5b4bc6259e3538ef7bcc92b3c bcdfeaf0e8c2cbabd9bc37b9ade3524029427656 ai-memory <ai-memory@local> 1787155426 +0000	commit: session 7e9b6491: Is it possible to get a URL like "https://www.ecobalyse.org/
+bcdfeaf0e8c2cbabd9bc37b9ade3524029427656 5af7216b903ccc40025081233ed401324a1f0a0d ai-memory <ai-memory@local> 1787159327 +0000	commit: memory_write_page: tickets/higg-42501.md
+5af7216b903ccc40025081233ed401324a1f0a0d 915a66be7dc78ac866055108db97f46233fecc02 ai-memory <ai-memory@local> 1787161264 +0000	commit: session 09367985: /gsd-debug https://worldly.atlassian.net/browse/HIGG-42501 C
+915a66be7dc78ac866055108db97f46233fecc02 1d137c25b75368a6637c2587f43ef59c9239814f ai-memory <ai-memory@local> 1787162663 +0000	commit: session 6ae5c476: /brief  https://worldly.atlassian.net/browse/HIGG-43752 [Ima
+1d137c25b75368a6637c2587f43ef59c9239814f 9612d472118a609bfef4f942b6cfcfbe4ab64469 ai-memory <ai-memory@local> 1787169459 +0000	commit: session 9789ff81: /spec docs/briefs/HIGG-43752-p006-multi-value-field-support-
+9612d472118a609bfef4f942b6cfcfbe4ab64469 74465eec5a1960934a6e473ba8f03e99aa46971a ai-memory <ai-memory@local> 1787172592 +0000	commit: session 944ab66e: /tdd docs/specs/HIGG-43752-p006-multi-value-field-support-sp
+74465eec5a1960934a6e473ba8f03e99aa46971a 103862982e16d2665935e50725db9193bb03ffb1 ai-memory <ai-memory@local> 1787243760 +0000	commit: session cbe552c7: Append to the brief a QA manual testing guide with all the s
+103862982e16d2665935e50725db9193bb03ffb1 37ae5bd928d4af4da0d7b39550647284e31596d6 ai-memory <ai-memory@local> 1787320369 +0000	commit: session 155b16e6: CalculationApi initialized
+37ae5bd928d4af4da0d7b39550647284e31596d6 3bb110fd1918beb7ff7d6edf2a38be6b36625f90 ai-memory <ai-memory@local> 1787329357 +0000	commit: session eb55ae64: /gsd-debug [Image #1] {
+3bb110fd1918beb7ff7d6edf2a38be6b36625f90 5b863df6a90747778f3c716b1870f38f8addf9d8 ai-memory <ai-memory@local> 1787332241 +0000	commit: session 3b3d0318: Mention the code-comments skill in the /spec command
+5b863df6a90747778f3c716b1870f38f8addf9d8 e01b309eb472afee459041e4520329da878d0db3 ai-memory <ai-memory@local> 1787589819 +0000	commit: session 964f2383: lets clean the unused git worktrees. Then lets create one fo
+e01b309eb472afee459041e4520329da878d0db3 3822e5b262131572fa64e25c6ee99d682dc5a0dc ai-memory <ai-memory@local> 1787590296 +0000	commit: session 12778630: /caveman
+3822e5b262131572fa64e25c6ee99d682dc5a0dc 2806610619e74c62c3814fe7354852c3e92c3843 ai-memory <ai-memory@local> 1787591628 +0000	commit: session 97de90d7: /spec docs/briefs/HIGG-43970-remove-validation-from-all-stag
+2806610619e74c62c3814fe7354852c3e92c3843 c9ec31c2ff854aef05a6b3ef19e28d68aff0bfe9 ai-memory <ai-memory@local> 1787592579 +0000	commit: session 6a93db39: /brief https://worldly.atlassian.net/browse/HIGG-42562
+c9ec31c2ff854aef05a6b3ef19e28d68aff0bfe9 3251c4a86f6ee13f69a61cca5c137a4b2ce36b01 ai-memory <ai-memory@local> 1787602210 +0000	commit: session 7180f331: /tdd docs/specs/HIGG-43970-remove-validation-from-all-stages
+3251c4a86f6ee13f69a61cca5c137a4b2ce36b01 7ac2db4b6aa5068e7656631267ac179faea85141 ai-memory <ai-memory@local> 1787603409 +0000	commit: session cf9a8f43: /spec docs/briefs/HIGG-42562-material-grid-export-for-overwr
+                                                                                                                                                                                                                                                                                                                                                                                                                                            
