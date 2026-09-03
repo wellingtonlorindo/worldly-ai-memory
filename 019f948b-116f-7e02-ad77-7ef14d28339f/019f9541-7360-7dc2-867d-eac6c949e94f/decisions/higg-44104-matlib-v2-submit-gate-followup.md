@@ -6,6 +6,10 @@ tags:
 - deferred
 pinned: true
 tier: semantic
+type: Decision
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-09-01T14:09:12Z
 ---
 # HIGG-44104 follow-up: MatLib V2 Submit gate still blocks on stale invalid rows (deferred)
 

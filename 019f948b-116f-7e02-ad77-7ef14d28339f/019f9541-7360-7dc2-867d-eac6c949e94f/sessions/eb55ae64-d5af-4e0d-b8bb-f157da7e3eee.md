@@ -2,6 +2,12 @@
 title: '/gsd-debug [Image #1] {'
 session_id: eb55ae64-d5af-4e0d-b8bb-f157da7e3eee
 tier: episodic
+type: Session Summary
+sources:
+- resource: ai-memory://session/eb55ae64-d5af-4e0d-b8bb-f157da7e3eee
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-08-21T16:22:37Z
 ---
 # /gsd-debug [Image #1] {
 

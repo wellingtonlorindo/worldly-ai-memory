@@ -6,6 +6,10 @@ tags:
 - score-comparison
 - resolved
 tier: semantic
+type: Note
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-07-30T16:56:54Z
 ---
 # HIGG-42667: MSI import chemistry-score divergence — RESOLVED
 

@@ -5,6 +5,10 @@ tags:
 - debug
 - root-cause
 tier: semantic
+type: Decision
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-08-18T18:48:52Z
 ---
 # PicCalculateStageEntry org field missing — root cause
 

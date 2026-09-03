@@ -5,6 +5,10 @@ tags:
 - elasticsearch
 - cleanup-script
 tier: semantic
+type: Note
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-08-12T16:40:22Z
 ---
 # HIGG-43340: Copying FEM 2025 prod data to Dev test accounts — session recap
 

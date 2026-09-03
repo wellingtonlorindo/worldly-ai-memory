@@ -2,6 +2,12 @@
 title: Clear all unused git worktrees and then create a new one for https://worldly.at…
 session_id: dda9dabe-2250-4078-bc63-ecf4b09fd4de
 tier: episodic
+type: Session Summary
+sources:
+- resource: ai-memory://session/dda9dabe-2250-4078-bc63-ecf4b09fd4de
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-09-03T14:03:37Z
 ---
 # Clear all unused git worktrees and then create a new one for https://worldly.at…
 

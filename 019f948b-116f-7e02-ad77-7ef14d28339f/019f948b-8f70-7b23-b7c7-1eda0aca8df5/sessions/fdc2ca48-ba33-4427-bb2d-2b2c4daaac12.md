@@ -2,6 +2,12 @@
 title: /caveman
 session_id: fdc2ca48-ba33-4427-bb2d-2b2c4daaac12
 tier: episodic
+type: Session Summary
+sources:
+- resource: ai-memory://session/fdc2ca48-ba33-4427-bb2d-2b2c4daaac12
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-07-24T17:51:27Z
 ---
 # /caveman
 
