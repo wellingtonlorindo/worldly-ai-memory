@@ -1,15 +1,15 @@
 ---
-title: Lint report 2026-09-16
+title: Lint report 2026-09-17
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.0.1
-  at: 2026-09-16T14:07:47Z
+  at: 2026-09-17T14:07:48Z
 ---
 # Lint findings
 
-1 finding(s).
+2 finding(s).
 
 ## 1 — rule_suggestion (info)
 
@@ -17,4 +17,12 @@ Page _rules/tdd-for-tickets.md looks like a durable project rule. Consider copyi
 
 Pages:
 - `_rules/tdd-for-tickets.md`
+
+## 2 — duplicate (warning)
+
+Multiple pages share title "/caveman"
+
+Pages:
+- `sessions/59df9559-2d2e-4279-8540-aefac8d0d62f.md`
+- `sessions/9f9da282-bbf2-49d4-a196-9ae99f3d23d7.md`
 
