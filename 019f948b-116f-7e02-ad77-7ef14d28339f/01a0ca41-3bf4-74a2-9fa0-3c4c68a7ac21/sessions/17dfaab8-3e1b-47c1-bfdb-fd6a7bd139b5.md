@@ -1,0 +1,491 @@
+---
+title: /tdd docs/specs/HIGG-44798-context-resolution-spec.md
+session_id: 17dfaab8-3e1b-47c1-bfdb-fd6a7bd139b5
+agent: claude-code
+tier: episodic
+summary: 6 prompts, 214 completed tool calls, over 16h 44m.
+type: Session Summary
+description: 6 prompts, 214 completed tool calls, over 16h 44m.
+sources:
+- resource: ai-memory://session/17dfaab8-3e1b-47c1-bfdb-fd6a7bd139b5
+  author: claude-code
+generated:
+  by: process:ai-memory/2.0.1
+  at: 2026-09-23T13:51:02Z
+---
+# /tdd docs/specs/HIGG-44798-context-resolution-spec.md
+
+## Session metadata
+
+- **session_id:** `17dfaab8-3e1b-47c1-bfdb-fd6a7bd139b5`
+- **started_at:** 2026-09-22T21:06:45Z
+- **ended_at:** 2026-09-23T13:51:02Z
+- **observations:** 448
+
+## Prompts
+
+1. /tdd docs/specs/HIGG-44798-context-resolution-spec.md
+2. <task-notification>
+3. keep going
+4. <task-notification>
+5. <task-notification>
+6. Check whether the full test suite background run (log at /tmp/full-test-run.log…
+
+## Tool calls
+
+- `tool file`: 76
+- `tool non-file`: 134
+- `tool unknown`: 4
+
+## Raw observations
+
+- `session-start` @ 2026-09-22T21:06:45Z — session-start
+- `user-prompt` @ 2026-09-22T21:07:32Z — /tdd docs/specs/HIGG-44798-context-resolution-spec.md
+- `pre-tool-use` @ 2026-09-22T21:07:37Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:07:37Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:07:41Z — tool file
+- `post-tool-use` @ 2026-09-22T21:07:41Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:07:47Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:07:47Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:07:52Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:07:52Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:07:56Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:07:57Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:08:00Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:00Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:04Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:04Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:07Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:07Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:11Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:11Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:15Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:08:15Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:08:17Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:17Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:21Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:21Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:24Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:25Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:28Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:28Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:32Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:33Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:37Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:37Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:41Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:41Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:44Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:44Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:49Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:08:49Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:08:53Z — tool file
+- `post-tool-use` @ 2026-09-22T21:08:53Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:08:58Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:08:58Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:09:03Z — tool file
+- `post-tool-use` @ 2026-09-22T21:09:03Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:09:08Z — tool file
+- `post-tool-use` @ 2026-09-22T21:09:08Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:09:22Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:09:23Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:09:34Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:09:35Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:09:48Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:09:49Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:09:53Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:09:53Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:09:57Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:09:57Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:02Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:10:02Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:06Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:10:07Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:17Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:31Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:10:31Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:37Z — tool file
+- `post-tool-use` @ 2026-09-22T21:10:37Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:10:43Z — tool file
+- `post-tool-use` @ 2026-09-22T21:10:43Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:10:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:10:52Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:10:56Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:10:57Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:11:01Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:11:01Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:11:06Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:11:06Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:11:12Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:11:13Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:11:15Z — tool file
+- `post-tool-use` @ 2026-09-22T21:11:15Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:11:24Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:11:24Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:11:28Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:11:28Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:15:03Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:15:04Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:15:12Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:15:12Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:15:28Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:15:29Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:15:36Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:15:37Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:15:47Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:15:49Z — tool unknown
+- `post-tool-use` @ 2026-09-22T21:15:49Z — tool unknown
+- `pre-tool-use` @ 2026-09-22T21:15:59Z — tool file
+- `post-tool-use` @ 2026-09-22T21:15:59Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:07Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:07Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:12Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:12Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:17Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:17Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:20Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:20Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:24Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:24Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:28Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:28Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:32Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:32Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:37Z — tool file
+- `post-tool-use` @ 2026-09-22T21:16:37Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:16:40Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:16:43Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:16:44Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:16:47Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:16:47Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:16:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:16:51Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:16:56Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:16:56Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:16:59Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:02Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:06Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:08Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:12Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:16Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:17Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:19Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:20Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:26Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:26Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:29Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:17:29Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:17:32Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:19:33Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:19:38Z — tool file
+- `post-tool-use` @ 2026-09-22T21:19:39Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:19:42Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:19:43Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:20:33Z — tool file
+- `post-tool-use` @ 2026-09-22T21:20:33Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:21:00Z — tool file
+- `post-tool-use` @ 2026-09-22T21:21:00Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:21:07Z — tool file
+- `post-tool-use` @ 2026-09-22T21:21:07Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:21:16Z — tool file
+- `post-tool-use` @ 2026-09-22T21:21:16Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:21:26Z — tool file
+- `post-tool-use` @ 2026-09-22T21:21:27Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:21:30Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:21:31Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:21:36Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:21:36Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:21:42Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:21:42Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:21:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:21:52Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:21:58Z — tool file
+- `post-tool-use` @ 2026-09-22T21:21:58Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:22:04Z — tool file
+- `post-tool-use` @ 2026-09-22T21:22:04Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:22:08Z — tool file
+- `post-tool-use` @ 2026-09-22T21:22:08Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:22:12Z — tool file
+- `post-tool-use` @ 2026-09-22T21:22:12Z — tool file
+- `user-prompt` @ 2026-09-22T21:22:12Z — <task-notification>
+- `pre-tool-use` @ 2026-09-22T21:22:16Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:16Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:23Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:24Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:31Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:34Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:35Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:46Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:47Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:54Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:55Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:22:58Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:22:59Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:11Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:12Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:17Z — tool file
+- `post-tool-use` @ 2026-09-22T21:23:17Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:23:22Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:24Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:28Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:31Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:37Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:37Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:41Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:41Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:23:47Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:23:48Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:24:04Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:24:07Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:24:13Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:24:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:24:19Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:24:20Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:24:50Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:24:52Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:25:01Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:25:04Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:25:11Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:25:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:25:22Z — tool file
+- `post-tool-use` @ 2026-09-22T21:25:22Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:25:27Z — tool file
+- `post-tool-use` @ 2026-09-22T21:25:27Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:25:33Z — tool file
+- `post-tool-use` @ 2026-09-22T21:25:34Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:25:37Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:25:41Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:25:50Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:25:50Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:25:58Z — tool file
+- `post-tool-use` @ 2026-09-22T21:25:58Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:04Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:26:08Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:26:12Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:12Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:22Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:22Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:31Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:31Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:35Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:35Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:43Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:43Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:50Z — tool file
+- `post-tool-use` @ 2026-09-22T21:26:50Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:26:53Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:26:57Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:27:01Z — tool file
+- `post-tool-use` @ 2026-09-22T21:27:01Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:27:17Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:27:17Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:27:32Z — tool file
+- `post-tool-use` @ 2026-09-22T21:27:32Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:27:56Z — tool file
+- `post-tool-use` @ 2026-09-22T21:27:56Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:28:00Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:03Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:09Z — tool file
+- `post-tool-use` @ 2026-09-22T21:28:09Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:28:22Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:22Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:26Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:26Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:33Z — tool file
+- `post-tool-use` @ 2026-09-22T21:28:33Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:28:36Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:40Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:45Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:46Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:50Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:28:50Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:28:57Z — tool file
+- `post-tool-use` @ 2026-09-22T21:28:57Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:01Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:01Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:05Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:29:09Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:29:12Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:13Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:21Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:22Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:25Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:25Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:33Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:33Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:42Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:42Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:45Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:46Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:29:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:29:51Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:29:57Z — tool file
+- `post-tool-use` @ 2026-09-22T21:29:57Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:01Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:30:01Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:30:07Z — tool file
+- `post-tool-use` @ 2026-09-22T21:30:07Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:12Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:30:12Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:30:25Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:30:25Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:30:28Z — tool file
+- `post-tool-use` @ 2026-09-22T21:30:29Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:37Z — tool file
+- `post-tool-use` @ 2026-09-22T21:30:37Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:41Z — tool file
+- `post-tool-use` @ 2026-09-22T21:30:41Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:47Z — tool file
+- `post-tool-use` @ 2026-09-22T21:30:47Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:30:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:30:54Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:30:58Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:30:58Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:31:03Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:31:03Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:31:07Z — tool file
+- `post-tool-use` @ 2026-09-22T21:31:07Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:31:12Z — tool file
+- `post-tool-use` @ 2026-09-22T21:31:12Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:31:15Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:31:16Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:31:21Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:31:45Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:31:49Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:31:49Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:31:53Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:32:04Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:32:10Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:32:10Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:32:16Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:32:22Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:32:22Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:32:28Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:32:37Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:33:11Z — tool file
+- `post-tool-use` @ 2026-09-22T21:33:11Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:33:15Z — tool file
+- `post-tool-use` @ 2026-09-22T21:33:15Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:33:20Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:33:30Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:33:34Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:33:43Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:33:46Z — tool file
+- `post-tool-use` @ 2026-09-22T21:33:47Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:33:51Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:34:16Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:34:20Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:34:20Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:34:28Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:34:28Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:34:38Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:35:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:35:24Z — tool file
+- `post-tool-use` @ 2026-09-22T21:35:24Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:35:28Z — tool file
+- `post-tool-use` @ 2026-09-22T21:35:28Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:35:30Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:36:06Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:36:11Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:36:47Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:36:54Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:36:54Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:37:09Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:26Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:39:34Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:34Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:39:41Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:41Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:39:45Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:45Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:39:50Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:50Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:39:54Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:39:54Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:40:02Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:40:02Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:40:10Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:40:18Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:40:24Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:40:24Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:40:29Z — tool unknown
+- `post-tool-use` @ 2026-09-22T21:40:29Z — tool unknown
+- `user-prompt` @ 2026-09-22T21:45:21Z — keep going
+- `pre-tool-use` @ 2026-09-22T21:45:24Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:25Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:27Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:28Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:32Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:32Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:36Z — tool file
+- `post-tool-use` @ 2026-09-22T21:45:36Z — tool file
+- `pre-tool-use` @ 2026-09-22T21:45:40Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:40Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:43Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:43Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:54Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:55Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:45:59Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:45:59Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:09Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:09Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:13Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:17Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:18Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:21Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:21Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:32Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:32Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:37Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:37Z — tool non-file
+- `user-prompt` @ 2026-09-22T21:46:37Z — <task-notification>
+- `pre-tool-use` @ 2026-09-22T21:46:40Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:40Z — tool non-file
+- `user-prompt` @ 2026-09-22T21:46:40Z — <task-notification>
+- `pre-tool-use` @ 2026-09-22T21:46:45Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:46Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:52Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:46:52Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:46:58Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:01Z — tool unknown
+- `post-tool-use` @ 2026-09-22T21:47:01Z — tool unknown
+- `pre-tool-use` @ 2026-09-22T21:47:08Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:47:08Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:20Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:27Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:47:27Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:31Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:47:43Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:47:49Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:47:59Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:48:05Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:48:15Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:48:22Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:48:32Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:48:36Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:48:36Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:48:40Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:06Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:49:10Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:10Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:49:14Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:14Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:49:19Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:19Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:49:23Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:29Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:49:49Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:49:53Z — tool non-file
+- `other` @ 2026-09-22T21:50:04Z — other
+- `user-prompt` @ 2026-09-22T21:51:00Z — Check whether the full test suite background run (log at /tmp/full-test-run.log…
+- `pre-tool-use` @ 2026-09-22T21:51:05Z — tool non-file
+- `post-tool-use` @ 2026-09-22T21:51:05Z — tool non-file
+- `pre-tool-use` @ 2026-09-22T21:51:09Z — tool unknown
+- `post-tool-use` @ 2026-09-22T21:51:09Z — tool unknown
+- `other` @ 2026-09-22T21:51:14Z — other
+- `other` @ 2026-09-22T22:00:25Z — other
+- `session-end` @ 2026-09-23T13:51:02Z — session-end
+
+_Synthesised by ai-memory (M3, no-LLM heuristic)._
