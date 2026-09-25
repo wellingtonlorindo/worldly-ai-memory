@@ -13,10 +13,9 @@ generated:
 
 ## 1 — duplicate (warning)
 
-Multiple pages share title "/caveman"
+Multiple pages share title "/tdd docs/specs/higg-44764-links-collection-and-schema-spec.md"
 
 Pages:
-- `sessions/1a564891-d2f5-4fae-8ab8-b1106a9ed8fa.md`
-- `sessions/0aa25bed-df99-4bb0-9ccd-6f25d9387332.md`
-- `sessions/dfb01c88-0085-4dc8-8806-01ba0bdba62a.md`
+- `sessions/44e5ab6c-4ef3-4126-9a88-86a41565e359.md`
+- `sessions/d880af80-643c-4d3a-8bdb-fa5cb085be69.md`
 
