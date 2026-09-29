@@ -3,15 +3,15 @@ title: /tdd docs/specs/HIGG-44769-link-read-endpoints-spec.md
 session_id: 096f4fa8-6adb-41bf-a19d-be6dae57dfd5
 agent: claude-code
 tier: episodic
-summary: 2 prompts, 242 completed tool calls.
+summary: 2 prompts, 242 completed tool calls, over 41m.
 type: Session Summary
-description: 2 prompts, 242 completed tool calls.
+description: 2 prompts, 242 completed tool calls, over 41m.
 sources:
 - resource: ai-memory://session/096f4fa8-6adb-41bf-a19d-be6dae57dfd5
   author: claude-code
 generated:
   by: process:ai-memory/2.0.1
-  at: 2026-09-29T18:17:00Z
+  at: 2026-09-29T18:24:03Z
 ---
 # /tdd docs/specs/HIGG-44769-link-read-endpoints-spec.md
 
@@ -19,7 +19,8 @@ generated:
 
 - **session_id:** `096f4fa8-6adb-41bf-a19d-be6dae57dfd5`
 - **started_at:** 2026-09-29T17:43:01Z
-- **observations:** 498
+- **ended_at:** 2026-09-29T18:24:03Z
+- **observations:** 500
 
 ## Prompts
 
@@ -532,5 +533,7 @@ generated:
 - `pre-tool-use` @ 2026-09-29T18:16:55Z — tool non-file
 - `post-tool-use` @ 2026-09-29T18:16:59Z — tool non-file
 - `pre-compact` @ 2026-09-29T18:17:00Z — pre-compact
+- `other` @ 2026-09-29T18:22:20Z — other
+- `session-end` @ 2026-09-29T18:24:03Z — session-end
 
 _Synthesised by ai-memory (M3, no-LLM heuristic)._
