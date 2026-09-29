@@ -3,15 +3,15 @@ title: /tdd docs/specs/HIGG-44769-link-read-endpoints-spec.md
 session_id: 096f4fa8-6adb-41bf-a19d-be6dae57dfd5
 agent: claude-code
 tier: episodic
-summary: 2 prompts, 51 completed tool calls.
+summary: 2 prompts, 52 completed tool calls.
 type: Session Summary
-description: 2 prompts, 51 completed tool calls.
+description: 2 prompts, 52 completed tool calls.
 sources:
 - resource: ai-memory://session/096f4fa8-6adb-41bf-a19d-be6dae57dfd5
   author: claude-code
 generated:
   by: process:ai-memory/2.0.1
-  at: 2026-09-29T17:41:03Z
+  at: 2026-09-29T17:41:19Z
 ---
 # /tdd docs/specs/HIGG-44769-link-read-endpoints-spec.md
 
@@ -19,7 +19,7 @@ generated:
 
 - **session_id:** `096f4fa8-6adb-41bf-a19d-be6dae57dfd5`
 - **started_at:** 2026-09-29T17:32:36Z
-- **observations:** 110
+- **observations:** 113
 
 ## Prompts
 
@@ -28,7 +28,7 @@ generated:
 
 ## Tool calls
 
-- `tool file`: 31
+- `tool file`: 32
 - `tool non-file`: 18
 - `tool unknown`: 2
 
@@ -144,5 +144,8 @@ generated:
 - `pre-tool-use` @ 2026-09-29T17:41:03Z — tool file
 - `post-tool-use` @ 2026-09-29T17:41:03Z — tool file
 - `pre-compact` @ 2026-09-29T17:41:03Z — pre-compact
+- `pre-tool-use` @ 2026-09-29T17:41:19Z — tool file
+- `post-tool-use` @ 2026-09-29T17:41:19Z — tool file
+- `pre-compact` @ 2026-09-29T17:41:19Z — pre-compact
 
 _Synthesised by ai-memory (M3, no-LLM heuristic)._
