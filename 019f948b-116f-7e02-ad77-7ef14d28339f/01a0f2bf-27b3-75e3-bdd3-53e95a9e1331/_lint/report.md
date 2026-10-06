@@ -13,9 +13,9 @@ generated:
 
 ## 1 — duplicate (warning)
 
-Multiple pages share title "/caveman"
+Multiple pages share title "wait 20 minutes then"
 
 Pages:
-- `sessions/858a74ef-c006-48d1-94e5-fe5ce722c60f.md`
-- `sessions/b896261a-e76e-4ec8-a2dc-b97ed4c8c1af.md`
+- `sessions/dbc86846-4efa-4419-bd53-ce134514b1eb.md`
+- `sessions/10dd5b5c-81f3-4d70-a546-26faae01b303.md`
 
