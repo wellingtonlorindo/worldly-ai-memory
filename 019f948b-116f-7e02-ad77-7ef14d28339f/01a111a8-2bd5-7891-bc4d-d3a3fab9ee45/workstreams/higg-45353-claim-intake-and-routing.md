@@ -3,55 +3,38 @@ tier: semantic
 type: Note
 generated:
   by: process:ai-memory/2.0.1
-  at: 2026-10-06T19:40:53Z
+  at: 2026-10-06T19:48:51Z
 ---
 # HIGG-45353 — Claim intake and routing (E5-T1b)
 
-## Status: implemented, draft PR open, QA blocked on stale token
+## Status: implemented, draft PR #10502 open, customer-surface QA run live 2026-10-06
 
 Draft PR: https://github.com/higgco/api.higg.org/pull/10502 (base `Development`, `ai-first`).
 
-Six commits on `HIGG-45353-claim-intake-and-routing`, three PR-slices, all TDD:
-1. **ClaimRouter** (`real/claim-router.ts`) + standing-signal + deferred case minter + `createClaimLink` writer.
-2. **`AccountEntity.matching.requester`** written from Keycloak GUID (`sub`), never client-authored.
-3. **real `ClaimsService`** (`real/claims.ts`) behind `POST /claims` / `GET /claims/:id`.
+Three slices on branch `HIGG-45353-claim-intake-and-routing`: ClaimRouter, `matching.requester`, real `ClaimsService`. 620 account-service tests pass.
 
-Verification: 620 account-service tests pass. `npm run tsc` clean except pre-existing `node_modules/survey-data`.
+## CORRECTION: earlier "stale token" diagnosis was WRONG
+The user's token was valid. Local API (`:5000`) auth for `@Security("jwt")` takes the raw token in `Authorization` with NO `Bearer` prefix, and I had (a) sent `Bearer`, and (b) hand-retyped the JWT and corrupted its signature. Always write the pasted token to a file once and read it from there; send `Authorization: $(cat token)`.
 
-## QA surface map (verified live)
+## Customer POST /account-service/v1/claims — live results (superuser Keycloak JWT, `claims` bound real)
+- Unknown org -> 404 `organization_not_found` (real shape, not mock).
+- Org `e94603dc...` "Test UK", platform bhive -> 200 `pending` / `proposal_sent`; GET /claims/:id returns same.
+- Org `de5a5e61...` "1test 555550", platform wcp -> 409 `organization_holds_account`, BUT org search for wcp lists it as `claimable`. Search path uses the search-hit `worldlyAccountId`; claim path uses `getOrganization` (GraphQL) `worldlyAccountId`. Possible search/claim eligibility inconsistency — NOT yet root-caused.
+- `de5a5e61` as bhive / ffc -> 200 `proposal_sent`.
+- Blank `invitationRef.accountId` -> 400; no auth -> 401; bad platform -> 400 validation; unknown claim id -> 404.
+- Repeating the same claim creates a NEW link each time (fresh placeholder accountId by design).
 
-- **Customer `POST /account-service/v1/claims`** (`@Security("jwt")`), body `ICreateClaimRequest`:
-  `{"organizationId": "<uuid>", "platform": "wcp|bhive|scm|ffc", "invitationRef?": {...}}`.
-  Routes 2 (`proposal_sent`/`applied`) and 3 (`case_minted`/`under_review`).
-- **Internal `POST /account-service/v1/internal/claim-reviews`** (`@Security("service-jwt", ["account-service-internal"])`).
-  This is the ONLY surface where routing runs; PL doesn't call it yet.
-- `claims` seam binds `mock` by default; flip via `HIGG_ACCOUNT_SERVICE_BINDING_CLAIMS=real`
-  (already in `.vscode/launch.json` env block, uncommitted, latches at boot).
+## NOT yet exercised
+- Route 3 `case_minted` / `under_review` never reached (every success returned `proposal_sent`).
+- Route 2 `applied` (invited claim), route 4 (standing signal), `matching.requester` write, 403 member-below-link-capable.
+- Internal `POST /internal/claim-reviews` still needs a `service-jwt`.
 
-## QA blocker (2026-10-06): stale JWT — token kid `QU3N...` rotated out
-
-- Token `iss` = keycloak `development` realm, `kid=QU3N...`. Live JWKS only serves `kid=PSuN...`
-  (`https://keycloak-auth.non-prod.worldly.io/realms/development/protocol/openid-connect/certs`).
-- Verified with openssl: token signature FAILS against `config` `jwtCertKeycloak`.
-- Confirmed `jwtCertKeycloak` in `config/v2.api.development.higg.org.json` == current live `PSuN...` key
-  (modulus match). So config is correct; the TOKEN is stale (Keycloak signing key rotated).
-- `401 InvalidToken` reproduced on BOTH customer `POST /claims` AND `corporate-report` — token rejected everywhere,
-  not a code/binding bug.
-
-## Next step
-Get a FRESH token from Keycloak `development` realm (`worldly-test-client`). Easiest: grab live
-`Authorization` header from the running Angular app (`localhost:4200`) network tab (will carry `kid=PSuN...`).
-Then: (1) probe which `claims` binding the restarted server latched (mock → `404 Unknown organization id`
-for any org; real → 401/403/409/400 by body), (2) run route-2/route-3 table against live orgs
-(`e94603dc-d249-4f03-97c5-a68eff06078c` "Test UK" join; `de5a5e61-a337-4fb5-9541-9f082df5a2ce`
-"1test 555550" claimable/source-only).
-
-## Open decisions (confirm with E5 owner)
-1. Invited claim + CS decline → route 4 (assumed yes).
-2. Standing signal scope = per-claimant CS declines only.
-3. PR 2 `requester` needs Keycloak sign-in at account creation, else uninvited PL claims get
-   `400 requester_required`.
+## Test data left in shared dev Mongo (links, pending): 261a5140-c2f6-4bec-b08e-11b40b64ce15, b355101d-ff22-43fa-9326-17678dcd7b41 (Test UK/bhive); 1252db13-5fbe-4c2d-81a0-2c0fd9d27fd5 (de5a5e61/bhive); 0a52c255-467c-41dc-a597-0c06e81a7827 (de5a5e61/ffc).
 
 ## Uncommitted local change (do NOT commit)
-`.vscode/launch.json` — added `env` block (`HIGG_ACCOUNT_SERVICE_BINDING_ORGANIZATIONS=real`,
-`HIGG_ACCOUNT_SERVICE_BINDING_CLAIMS=real`) to "Launch Development API" config.
+`.vscode/launch.json` env block (`HIGG_ACCOUNT_SERVICE_BINDING_ORGANIZATIONS=real`, `..._CLAIMS=real`).
+
+## Open decisions (confirm with E5 owner)
+1. Invited claim + CS decline -> route 4 (assumed yes).
+2. Standing signal scope = per-claimant CS declines only.
+3. `requester` needs Keycloak sign-in at account creation, else uninvited PL claims get `400 requester_required`.
