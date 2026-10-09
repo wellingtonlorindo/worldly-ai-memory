@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-10-08
+title: Lint report 2026-10-09
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
-  by: process:ai-memory/2.0.1
-  at: 2026-10-08T04:01:40Z
+  by: process:ai-memory/2.6.1
+  at: 2026-10-09T04:01:43Z
 ---
 # Lint findings
 
@@ -16,6 +16,6 @@ generated:
 Multiple pages share title "/caveman"
 
 Pages:
-- `sessions/858a74ef-c006-48d1-94e5-fe5ce722c60f.md`
 - `sessions/b896261a-e76e-4ec8-a2dc-b97ed4c8c1af.md`
+- `sessions/858a74ef-c006-48d1-94e5-fe5ce722c60f.md`
 

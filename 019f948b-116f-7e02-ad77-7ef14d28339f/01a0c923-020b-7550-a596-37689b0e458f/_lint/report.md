@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-10-08
+title: Lint report 2026-10-09
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
-  by: process:ai-memory/2.0.1
-  at: 2026-10-08T04:01:40Z
+  by: process:ai-memory/2.6.1
+  at: 2026-10-09T04:01:42Z
 ---
 # Lint findings
 
@@ -16,6 +16,6 @@ generated:
 Multiple pages share title "/tdd docs/specs/higg-44764-links-collection-and-schema-spec.md"
 
 Pages:
-- `sessions/44e5ab6c-4ef3-4126-9a88-86a41565e359.md`
 - `sessions/d880af80-643c-4d3a-8bdb-fa5cb085be69.md`
+- `sessions/44e5ab6c-4ef3-4126-9a88-86a41565e359.md`
 
