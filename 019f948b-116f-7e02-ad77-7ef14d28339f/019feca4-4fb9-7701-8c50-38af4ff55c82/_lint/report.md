@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-10-09
+title: Lint report 2026-10-10
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-09T04:01:42Z
+  at: 2026-10-10T04:01:45Z
 ---
 # Lint findings
 
@@ -13,28 +13,28 @@ generated:
 
 ## 1 — stale (info)
 
-Episodic page sessions/8132ddc2-9d54-4f39-a351-3caea71743e6.md is 59 days old with zero accesses
+Episodic page sessions/8132ddc2-9d54-4f39-a351-3caea71743e6.md is 60 days old with zero accesses
 
 Pages:
 - `sessions/8132ddc2-9d54-4f39-a351-3caea71743e6.md`
 
 ## 2 — stale (info)
 
-Episodic page sessions/572d13a0-392e-4631-a0b9-23ab5d33caa1.md is 59 days old with zero accesses
+Episodic page sessions/572d13a0-392e-4631-a0b9-23ab5d33caa1.md is 60 days old with zero accesses
 
 Pages:
 - `sessions/572d13a0-392e-4631-a0b9-23ab5d33caa1.md`
 
 ## 3 — stale (info)
 
-Episodic page sessions/fd84ca0e-d082-487b-8c57-938612ba3bc4.md is 59 days old with zero accesses
+Episodic page sessions/fd84ca0e-d082-487b-8c57-938612ba3bc4.md is 60 days old with zero accesses
 
 Pages:
 - `sessions/fd84ca0e-d082-487b-8c57-938612ba3bc4.md`
 
 ## 4 — stale (info)
 
-Episodic page sessions/b754864e-acc4-47da-bf31-3f36647df078.md is 59 days old with zero accesses
+Episodic page sessions/b754864e-acc4-47da-bf31-3f36647df078.md is 60 days old with zero accesses
 
 Pages:
 - `sessions/b754864e-acc4-47da-bf31-3f36647df078.md`

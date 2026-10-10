@@ -1,17 +1,28 @@
 ---
-title: Lint report 2026-10-09
+title: Lint report 2026-10-10
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-09T04:01:43Z
+  at: 2026-10-10T04:01:46Z
 ---
 # Lint findings
 
 2 finding(s).
 
 ## 1 — duplicate (warning)
+
+Multiple pages share title "you previously flagged these candidate vulnerabilities:"
+
+Pages:
+- `sessions/46c0cf0b-a1ad-40d5-baa4-129355850ffd.md`
+- `sessions/e9a761ef-2d21-45dd-9d3e-c20efa178bde.md`
+- `sessions/042c313b-0190-4a57-8560-cace5fc013c5.md`
+- `sessions/e5a967b1-fb7d-47e2-815c-046b5e3307ef.md`
+- `sessions/54ff2cba-34c4-448e-af90-cfeea7fb7ae8.md`
+
+## 2 — duplicate (warning)
 
 Multiple pages share title "review this change for security vulnerabilities."
 
@@ -32,15 +43,4 @@ Pages:
 - `sessions/10ed733e-13c4-40f0-9e54-d7ad334bc758.md`
 - `sessions/1ea6966c-2175-4050-9b7d-bfb37a997b00.md`
 - `sessions/ad9f8f35-197e-4aad-a353-414661a0b403.md`
-
-## 2 — duplicate (warning)
-
-Multiple pages share title "you previously flagged these candidate vulnerabilities:"
-
-Pages:
-- `sessions/46c0cf0b-a1ad-40d5-baa4-129355850ffd.md`
-- `sessions/e9a761ef-2d21-45dd-9d3e-c20efa178bde.md`
-- `sessions/042c313b-0190-4a57-8560-cace5fc013c5.md`
-- `sessions/e5a967b1-fb7d-47e2-815c-046b5e3307ef.md`
-- `sessions/54ff2cba-34c4-448e-af90-cfeea7fb7ae8.md`
 

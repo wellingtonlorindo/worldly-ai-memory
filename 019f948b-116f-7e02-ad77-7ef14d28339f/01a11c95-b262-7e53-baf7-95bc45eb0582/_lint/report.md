@@ -5,7 +5,7 @@ kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-10T04:01:45Z
+  at: 2026-10-10T04:01:46Z
 ---
 # Lint findings
 
@@ -13,9 +13,9 @@ generated:
 
 ## 1 — duplicate (warning)
 
-Multiple pages share title "/pr-review-toolkit:review-pr"
+Multiple pages share title "user-prompt"
 
 Pages:
-- `sessions/3ff54d47-44f5-491c-a6e0-1ce49f03ceab.md`
-- `sessions/cb47d4b9-d0cf-474c-865b-37b7a1f5e8bf.md`
+- `sessions/6f61275d-1e6d-4c74-a0ff-fb31f2091550.md`
+- `sessions/73f804da-0fab-479f-af36-7afadbf77e64.md`
 
