@@ -11,11 +11,10 @@ generated:
 
 1 finding(s).
 
-## 1 — duplicate (warning)
+## 1 — stale (info)
 
-Multiple pages share title "/pr-review-toolkit:review-pr"
+Episodic page sessions/08d99579-2b8b-4e14-97aa-f4fcdca39390.md is 30 days old with zero accesses
 
 Pages:
-- `sessions/3ff54d47-44f5-491c-a6e0-1ce49f03ceab.md`
-- `sessions/cb47d4b9-d0cf-474c-865b-37b7a1f5e8bf.md`
+- `sessions/08d99579-2b8b-4e14-97aa-f4fcdca39390.md`
 
