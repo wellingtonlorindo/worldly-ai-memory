@@ -1,15 +1,15 @@
 ---
-title: Lint report 2026-10-14
+title: Lint report 2026-10-15
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-14T04:01:58Z
+  at: 2026-10-15T04:02:01Z
 ---
 # Lint findings
 
-1 finding(s).
+2 finding(s).
 
 ## 1 — duplicate (warning)
 
@@ -24,4 +24,17 @@ Pages:
 - `sessions/1a230b09-c453-46b7-97c5-8358ca9d702a.md`
 - `sessions/dbe34fb8-3af5-4546-8420-0e35cfa420b2.md`
 - `sessions/9b96daa8-6423-4211-8588-c7a2a380359e.md`
+- `sessions/24f7faa7-5b84-4602-9f0a-cb4d4c21812f.md`
+- `sessions/b5865aa4-154a-46b6-b8d8-af8d417db43d.md`
+- `sessions/38997737-60a4-4b01-8883-add34eaa049e.md`
+- `sessions/c7f11eb5-e20a-4c48-8dc3-4b39c3afb344.md`
+- `sessions/e6ce1e98-abe3-4d06-a05e-eb63359e8c62.md`
+
+## 2 — duplicate (warning)
+
+Multiple pages share title "update the branch and fix all conflicts then push"
+
+Pages:
+- `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
+- `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
 
