@@ -1,17 +1,33 @@
 ---
-title: Lint report 2026-10-15
+title: Lint report 2026-10-16
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-15T04:02:01Z
+  at: 2026-10-16T05:10:46Z
 ---
 # Lint findings
 
-2 finding(s).
+3 finding(s).
 
 ## 1 — duplicate (warning)
+
+Multiple pages share title "update the branch and fix all conflicts then push"
+
+Pages:
+- `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
+- `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
+
+## 2 — duplicate (warning)
+
+Multiple pages share title "/open-code-review:review"
+
+Pages:
+- `sessions/24a1d18b-28be-4624-9736-d3527ec12b8e.md`
+- `sessions/c3b816d0-3ca8-439e-88fc-be37398edda7.md`
+
+## 3 — duplicate (warning)
 
 Multiple pages share title "user-prompt"
 
@@ -29,12 +45,6 @@ Pages:
 - `sessions/38997737-60a4-4b01-8883-add34eaa049e.md`
 - `sessions/c7f11eb5-e20a-4c48-8dc3-4b39c3afb344.md`
 - `sessions/e6ce1e98-abe3-4d06-a05e-eb63359e8c62.md`
-
-## 2 — duplicate (warning)
-
-Multiple pages share title "update the branch and fix all conflicts then push"
-
-Pages:
-- `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
-- `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
+- `sessions/94530282-39b6-4207-b039-cae4049435a3.md`
+- `sessions/abdfe4bb-6846-4783-b8c4-e6671d3a2bee.md`
 

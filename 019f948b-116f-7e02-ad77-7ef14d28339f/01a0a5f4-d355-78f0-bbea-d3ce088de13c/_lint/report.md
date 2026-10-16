@@ -1,15 +1,15 @@
 ---
-title: Lint report 2026-10-15
+title: Lint report 2026-10-16
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-15T04:02:00Z
+  at: 2026-10-16T05:10:45Z
 ---
 # Lint findings
 
-2 finding(s).
+5 finding(s).
 
 ## 1 — rule_suggestion (info)
 
@@ -18,7 +18,28 @@ Page _rules/tdd-for-tickets.md looks like a durable project rule. Consider copyi
 Pages:
 - `_rules/tdd-for-tickets.md`
 
-## 2 — duplicate (warning)
+## 2 — stale (info)
+
+Episodic page sessions/920508c6-17ce-4500-ae24-8b2975570fe9.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/920508c6-17ce-4500-ae24-8b2975570fe9.md`
+
+## 3 — stale (info)
+
+Episodic page sessions/0c330b82-79ce-4f0d-9725-1edf0e50b397.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/0c330b82-79ce-4f0d-9725-1edf0e50b397.md`
+
+## 4 — stale (info)
+
+Episodic page sessions/5c4f7128-50d2-483f-800c-ceb25622bd43.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/5c4f7128-50d2-483f-800c-ceb25622bd43.md`
+
+## 5 — duplicate (warning)
 
 Multiple pages share title "/caveman"
 
