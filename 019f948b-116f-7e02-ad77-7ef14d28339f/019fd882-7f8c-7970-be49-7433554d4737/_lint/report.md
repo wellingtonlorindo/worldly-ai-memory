@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-10-16
+title: Lint report 2026-11-06
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-16T05:10:44Z
+  at: 2026-11-06T20:47:12Z
 ---
 # Lint findings
 
@@ -13,54 +13,52 @@ generated:
 
 ## 1 — stale (info)
 
-Episodic page sessions/38167605-8f07-4709-bef5-c6a2efade94f.md is 70 days old with zero accesses
+Episodic page sessions/ee6e6fde-c00c-40d6-b2d8-182dd8333491.md is 45 days old with zero accesses
 
 Pages:
-- `sessions/38167605-8f07-4709-bef5-c6a2efade94f.md`
+- `sessions/ee6e6fde-c00c-40d6-b2d8-182dd8333491.md`
 
 ## 2 — stale (info)
 
-Episodic page sessions/32e2e669-c3c6-438e-ab69-7be6b2c77bdb.md is 70 days old with zero accesses
+Episodic page sessions/d23f6bb7-63a6-4f08-94f2-e29b2c0be143.md is 45 days old with zero accesses
 
 Pages:
-- `sessions/32e2e669-c3c6-438e-ab69-7be6b2c77bdb.md`
+- `sessions/d23f6bb7-63a6-4f08-94f2-e29b2c0be143.md`
 
 ## 3 — stale (info)
 
-Episodic page sessions/1ab2ae23-7869-4971-8710-54624bf90996.md is 70 days old with zero accesses
+Episodic page sessions/6a987674-4b60-45c0-9800-5aeee494c5f9.md is 44 days old with zero accesses
 
 Pages:
-- `sessions/1ab2ae23-7869-4971-8710-54624bf90996.md`
+- `sessions/6a987674-4b60-45c0-9800-5aeee494c5f9.md`
 
 ## 4 — stale (info)
 
-Episodic page sessions/3f9b0db2-e017-4ed6-8414-386eac9a19b3.md is 70 days old with zero accesses
+Episodic page sessions/f56284a2-806b-4ee8-a6aa-6b54088fbdc2.md is 43 days old with zero accesses
 
 Pages:
-- `sessions/3f9b0db2-e017-4ed6-8414-386eac9a19b3.md`
+- `sessions/f56284a2-806b-4ee8-a6aa-6b54088fbdc2.md`
 
 ## 5 — stale (info)
 
-Episodic page sessions/fd666cc3-e0e7-4867-988f-e144c73ff2c8.md is 69 days old with zero accesses
+Episodic page sessions/df73d1f7-125b-41a1-99e5-e4ecb4a0838c.md is 31 days old with zero accesses
 
 Pages:
-- `sessions/fd666cc3-e0e7-4867-988f-e144c73ff2c8.md`
+- `sessions/df73d1f7-125b-41a1-99e5-e4ecb4a0838c.md`
 
 ## 6 — stale (info)
 
-Episodic page sessions/4eb67176-9a68-4df8-b54c-2a370cf259bd.md is 67 days old with zero accesses
+Episodic page sessions/031affb0-6b04-4281-843f-0a4c7f48f34e.md is 30 days old with zero accesses
 
 Pages:
-- `sessions/4eb67176-9a68-4df8-b54c-2a370cf259bd.md`
+- `sessions/031affb0-6b04-4281-843f-0a4c7f48f34e.md`
 
-## 7 — duplicate (warning)
+## 7 — stale (info)
 
-Multiple pages share title "/caveman:caveman"
+Episodic page sessions/843a2c1a-c010-48e8-8f39-6f50024b3830.md is 30 days old with zero accesses
 
 Pages:
-- `sessions/32e2e669-c3c6-438e-ab69-7be6b2c77bdb.md`
-- `sessions/1ab2ae23-7869-4971-8710-54624bf90996.md`
-- `sessions/ee6e6fde-c00c-40d6-b2d8-182dd8333491.md`
+- `sessions/843a2c1a-c010-48e8-8f39-6f50024b3830.md`
 
 ## 8 — duplicate (warning)
 

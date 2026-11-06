@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-10-16
+title: Lint report 2026-11-06
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-10-16T05:10:46Z
+  at: 2026-11-06T20:47:17Z
 ---
 # Lint findings
 
@@ -47,4 +47,7 @@ Pages:
 - `sessions/e6ce1e98-abe3-4d06-a05e-eb63359e8c62.md`
 - `sessions/94530282-39b6-4207-b039-cae4049435a3.md`
 - `sessions/abdfe4bb-6846-4783-b8c4-e6671d3a2bee.md`
+- `sessions/9d56a8b0-1e5a-4ef8-b1a9-099437d1752d.md`
+- `sessions/a8799dee-b2d7-426b-8686-badf6880112a.md`
+- `sessions/256a53b6-db09-45df-a652-8fb441b2d9f5.md`
 
