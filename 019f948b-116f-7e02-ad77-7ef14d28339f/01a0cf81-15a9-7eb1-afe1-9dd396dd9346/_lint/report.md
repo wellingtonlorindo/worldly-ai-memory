@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-11-06
+title: Lint report 2026-11-07
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-06T20:47:15Z
+  at: 2026-11-07T20:47:21Z
 ---
 # Lint findings
 
@@ -13,14 +13,14 @@ generated:
 
 ## 1 — stale (info)
 
-Episodic page sessions/7cf4614b-cc63-4327-84f7-bc88ba74da57.md is 39 days old with zero accesses
+Episodic page sessions/7cf4614b-cc63-4327-84f7-bc88ba74da57.md is 40 days old with zero accesses
 
 Pages:
 - `sessions/7cf4614b-cc63-4327-84f7-bc88ba74da57.md`
 
 ## 2 — stale (info)
 
-Episodic page sessions/5cea8125-9daf-4d31-975f-700277aeb034.md is 39 days old with zero accesses
+Episodic page sessions/5cea8125-9daf-4d31-975f-700277aeb034.md is 40 days old with zero accesses
 
 Pages:
 - `sessions/5cea8125-9daf-4d31-975f-700277aeb034.md`
