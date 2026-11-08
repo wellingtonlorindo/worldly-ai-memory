@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-11-07
+title: Lint report 2026-11-08
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-07T20:47:23Z
+  at: 2026-11-08T20:47:29Z
 ---
 # Lint findings
 
@@ -20,14 +20,6 @@ Pages:
 - `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
 
 ## 2 — duplicate (warning)
-
-Multiple pages share title "/open-code-review:review"
-
-Pages:
-- `sessions/24a1d18b-28be-4624-9736-d3527ec12b8e.md`
-- `sessions/c3b816d0-3ca8-439e-88fc-be37398edda7.md`
-
-## 3 — duplicate (warning)
 
 Multiple pages share title "user-prompt"
 
@@ -50,4 +42,12 @@ Pages:
 - `sessions/9d56a8b0-1e5a-4ef8-b1a9-099437d1752d.md`
 - `sessions/a8799dee-b2d7-426b-8686-badf6880112a.md`
 - `sessions/256a53b6-db09-45df-a652-8fb441b2d9f5.md`
+
+## 3 — duplicate (warning)
+
+Multiple pages share title "/open-code-review:review"
+
+Pages:
+- `sessions/24a1d18b-28be-4624-9736-d3527ec12b8e.md`
+- `sessions/c3b816d0-3ca8-439e-88fc-be37398edda7.md`
 

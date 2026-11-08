@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-11-07
+title: Lint report 2026-11-08
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-07T20:47:19Z
+  at: 2026-11-08T20:47:25Z
 ---
 # Lint findings
 
@@ -13,28 +13,28 @@ generated:
 
 ## 1 — stale (info)
 
-Episodic page sessions/1a564891-d2f5-4fae-8ab8-b1106a9ed8fa.md is 54 days old with zero accesses
+Episodic page sessions/1a564891-d2f5-4fae-8ab8-b1106a9ed8fa.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/1a564891-d2f5-4fae-8ab8-b1106a9ed8fa.md`
 
 ## 2 — stale (info)
 
-Episodic page sessions/d0ed065f-6dfd-4e86-9329-d2118ee7bae9.md is 54 days old with zero accesses
+Episodic page sessions/d0ed065f-6dfd-4e86-9329-d2118ee7bae9.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/d0ed065f-6dfd-4e86-9329-d2118ee7bae9.md`
 
 ## 3 — stale (info)
 
-Episodic page sessions/463d43be-ffc0-41ca-91aa-f9f513064632.md is 54 days old with zero accesses
+Episodic page sessions/463d43be-ffc0-41ca-91aa-f9f513064632.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/463d43be-ffc0-41ca-91aa-f9f513064632.md`
 
 ## 4 — stale (info)
 
-Episodic page sessions/ddb2922f-a003-4bc1-b615-01087a359489.md is 53 days old with zero accesses
+Episodic page sessions/ddb2922f-a003-4bc1-b615-01087a359489.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/ddb2922f-a003-4bc1-b615-01087a359489.md`
