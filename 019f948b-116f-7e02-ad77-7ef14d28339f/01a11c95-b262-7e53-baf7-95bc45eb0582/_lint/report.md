@@ -1,25 +1,17 @@
 ---
-title: Lint report 2026-11-09
+title: Lint report 2026-11-10
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-09T20:47:35Z
+  at: 2026-11-10T20:47:40Z
 ---
 # Lint findings
 
-3 finding(s).
+4 finding(s).
 
 ## 1 — duplicate (warning)
-
-Multiple pages share title "update the branch and fix all conflicts then push"
-
-Pages:
-- `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
-- `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
-
-## 2 — duplicate (warning)
 
 Multiple pages share title "user-prompt"
 
@@ -43,7 +35,23 @@ Pages:
 - `sessions/a8799dee-b2d7-426b-8686-badf6880112a.md`
 - `sessions/256a53b6-db09-45df-a652-8fb441b2d9f5.md`
 
+## 2 — duplicate (warning)
+
+Multiple pages share title "update the branch and fix all conflicts then push"
+
+Pages:
+- `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
+- `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
+
 ## 3 — duplicate (warning)
+
+Multiple pages share title "think hard and take some time to update the branch and review the related ticke…"
+
+Pages:
+- `sessions/35617f5b-c662-4ed0-af31-b0083d23e26f.md`
+- `sessions/6a0460de-4cad-4967-9888-c281491fd816.md`
+
+## 4 — duplicate (warning)
 
 Multiple pages share title "/open-code-review:review"
 
