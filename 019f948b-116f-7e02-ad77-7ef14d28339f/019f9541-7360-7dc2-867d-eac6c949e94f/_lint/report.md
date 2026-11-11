@@ -1,11 +1,11 @@
 ---
-title: Lint report 2026-11-10
+title: Lint report 2026-11-11
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-10T20:47:35Z
+  at: 2026-11-11T20:47:42Z
 ---
 # Lint findings
 
@@ -13,413 +13,413 @@ generated:
 
 ## 1 — stale (info)
 
-Episodic page sessions/964f2383-32fd-4445-bc07-40531e682c54.md is 78 days old with zero accesses
+Episodic page sessions/964f2383-32fd-4445-bc07-40531e682c54.md is 79 days old with zero accesses
 
 Pages:
 - `sessions/964f2383-32fd-4445-bc07-40531e682c54.md`
 
 ## 2 — stale (info)
 
-Episodic page sessions/cf9a8f43-68da-4680-b3b4-65d44ea82364.md is 78 days old with zero accesses
+Episodic page sessions/cf9a8f43-68da-4680-b3b4-65d44ea82364.md is 79 days old with zero accesses
 
 Pages:
 - `sessions/cf9a8f43-68da-4680-b3b4-65d44ea82364.md`
 
 ## 3 — stale (info)
 
-Episodic page sessions/ea24ec50-8db0-496d-ab0d-a2bb1120592f.md is 78 days old with zero accesses
+Episodic page sessions/ea24ec50-8db0-496d-ab0d-a2bb1120592f.md is 79 days old with zero accesses
 
 Pages:
 - `sessions/ea24ec50-8db0-496d-ab0d-a2bb1120592f.md`
 
 ## 4 — stale (info)
 
-Episodic page sessions/50a2080e-107c-4d86-bc6d-26200cfeab07.md is 77 days old with zero accesses
+Episodic page sessions/50a2080e-107c-4d86-bc6d-26200cfeab07.md is 78 days old with zero accesses
 
 Pages:
 - `sessions/50a2080e-107c-4d86-bc6d-26200cfeab07.md`
 
 ## 5 — stale (info)
 
-Episodic page sessions/deadab6c-2654-42be-9f1c-bc6664d0c69b.md is 77 days old with zero accesses
+Episodic page sessions/deadab6c-2654-42be-9f1c-bc6664d0c69b.md is 78 days old with zero accesses
 
 Pages:
 - `sessions/deadab6c-2654-42be-9f1c-bc6664d0c69b.md`
 
 ## 6 — stale (info)
 
-Episodic page sessions/79e10d06-6f8e-4835-bdfa-41480282fc7c.md is 76 days old with zero accesses
+Episodic page sessions/79e10d06-6f8e-4835-bdfa-41480282fc7c.md is 77 days old with zero accesses
 
 Pages:
 - `sessions/79e10d06-6f8e-4835-bdfa-41480282fc7c.md`
 
 ## 7 — stale (info)
 
-Episodic page sessions/c9e7bb0c-7b37-4860-898d-1046fc58fdf7.md is 76 days old with zero accesses
+Episodic page sessions/c9e7bb0c-7b37-4860-898d-1046fc58fdf7.md is 77 days old with zero accesses
 
 Pages:
 - `sessions/c9e7bb0c-7b37-4860-898d-1046fc58fdf7.md`
 
 ## 8 — stale (info)
 
-Episodic page sessions/5b7c79cf-913b-4860-aed5-9d31c0e1aad7.md is 76 days old with zero accesses
+Episodic page sessions/5b7c79cf-913b-4860-aed5-9d31c0e1aad7.md is 77 days old with zero accesses
 
 Pages:
 - `sessions/5b7c79cf-913b-4860-aed5-9d31c0e1aad7.md`
 
 ## 9 — stale (info)
 
-Episodic page sessions/8d6ffa64-f459-4249-928a-b7102941aa7f.md is 75 days old with zero accesses
+Episodic page sessions/8d6ffa64-f459-4249-928a-b7102941aa7f.md is 76 days old with zero accesses
 
 Pages:
 - `sessions/8d6ffa64-f459-4249-928a-b7102941aa7f.md`
 
 ## 10 — stale (info)
 
-Episodic page sessions/457921d8-fe92-4fb1-b6c7-6804afb0056b.md is 71 days old with zero accesses
+Episodic page sessions/457921d8-fe92-4fb1-b6c7-6804afb0056b.md is 72 days old with zero accesses
 
 Pages:
 - `sessions/457921d8-fe92-4fb1-b6c7-6804afb0056b.md`
 
 ## 11 — stale (info)
 
-Episodic page sessions/5304eaad-3b15-44d6-8e0e-b93d39c46a93.md is 71 days old with zero accesses
+Episodic page sessions/5304eaad-3b15-44d6-8e0e-b93d39c46a93.md is 72 days old with zero accesses
 
 Pages:
 - `sessions/5304eaad-3b15-44d6-8e0e-b93d39c46a93.md`
 
 ## 12 — stale (info)
 
-Episodic page sessions/7188b5d7-8b0b-45df-bf63-08e5ef5a4b5d.md is 70 days old with zero accesses
+Episodic page sessions/7188b5d7-8b0b-45df-bf63-08e5ef5a4b5d.md is 71 days old with zero accesses
 
 Pages:
 - `sessions/7188b5d7-8b0b-45df-bf63-08e5ef5a4b5d.md`
 
 ## 13 — stale (info)
 
-Episodic page sessions/af4d8162-22c4-4982-b381-c0c1600e1613.md is 70 days old with zero accesses
+Episodic page sessions/af4d8162-22c4-4982-b381-c0c1600e1613.md is 71 days old with zero accesses
 
 Pages:
 - `sessions/af4d8162-22c4-4982-b381-c0c1600e1613.md`
 
 ## 14 — stale (info)
 
-Episodic page sessions/93b90e17-9cda-484a-9ff9-35e43b2b51b9.md is 70 days old with zero accesses
+Episodic page sessions/93b90e17-9cda-484a-9ff9-35e43b2b51b9.md is 71 days old with zero accesses
 
 Pages:
 - `sessions/93b90e17-9cda-484a-9ff9-35e43b2b51b9.md`
 
 ## 15 — stale (info)
 
-Episodic page sessions/8797f9f1-3925-4c0b-bd1b-2c879205f115.md is 70 days old with zero accesses
+Episodic page sessions/8797f9f1-3925-4c0b-bd1b-2c879205f115.md is 71 days old with zero accesses
 
 Pages:
 - `sessions/8797f9f1-3925-4c0b-bd1b-2c879205f115.md`
 
 ## 16 — stale (info)
 
-Episodic page sessions/0c01c1d2-f85d-4ad7-9846-3bbdac126c1c.md is 70 days old with zero accesses
+Episodic page sessions/0c01c1d2-f85d-4ad7-9846-3bbdac126c1c.md is 71 days old with zero accesses
 
 Pages:
 - `sessions/0c01c1d2-f85d-4ad7-9846-3bbdac126c1c.md`
 
 ## 17 — stale (info)
 
-Episodic page sessions/e827e542-52ec-4c8e-96a5-14c58a1e6a37.md is 69 days old with zero accesses
+Episodic page sessions/e827e542-52ec-4c8e-96a5-14c58a1e6a37.md is 70 days old with zero accesses
 
 Pages:
 - `sessions/e827e542-52ec-4c8e-96a5-14c58a1e6a37.md`
 
 ## 18 — stale (info)
 
-Episodic page sessions/849c191d-25a9-482a-a62a-5f9cf8a23628.md is 69 days old with zero accesses
+Episodic page sessions/849c191d-25a9-482a-a62a-5f9cf8a23628.md is 70 days old with zero accesses
 
 Pages:
 - `sessions/849c191d-25a9-482a-a62a-5f9cf8a23628.md`
 
 ## 19 — stale (info)
 
-Episodic page sessions/f453561c-6336-495f-8c3a-18a4db970a97.md is 69 days old with zero accesses
+Episodic page sessions/f453561c-6336-495f-8c3a-18a4db970a97.md is 70 days old with zero accesses
 
 Pages:
 - `sessions/f453561c-6336-495f-8c3a-18a4db970a97.md`
 
 ## 20 — stale (info)
 
-Episodic page sessions/4a14ad7f-98b9-4dac-b464-a96b1bf34c97.md is 60 days old with zero accesses
+Episodic page sessions/4a14ad7f-98b9-4dac-b464-a96b1bf34c97.md is 61 days old with zero accesses
 
 Pages:
 - `sessions/4a14ad7f-98b9-4dac-b464-a96b1bf34c97.md`
 
 ## 21 — stale (info)
 
-Episodic page sessions/095e7205-3ee6-455e-9538-ac186d6d4b7a.md is 57 days old with zero accesses
+Episodic page sessions/095e7205-3ee6-455e-9538-ac186d6d4b7a.md is 58 days old with zero accesses
 
 Pages:
 - `sessions/095e7205-3ee6-455e-9538-ac186d6d4b7a.md`
 
 ## 22 — stale (info)
 
-Episodic page sessions/1c568d8b-cb8e-4200-8671-a8b09cfb590e.md is 56 days old with zero accesses
+Episodic page sessions/1c568d8b-cb8e-4200-8671-a8b09cfb590e.md is 57 days old with zero accesses
 
 Pages:
 - `sessions/1c568d8b-cb8e-4200-8671-a8b09cfb590e.md`
 
 ## 23 — stale (info)
 
-Episodic page sessions/a359cc2a-9ec2-4f1c-8ae4-3646bc2c45c9.md is 56 days old with zero accesses
+Episodic page sessions/a359cc2a-9ec2-4f1c-8ae4-3646bc2c45c9.md is 57 days old with zero accesses
 
 Pages:
 - `sessions/a359cc2a-9ec2-4f1c-8ae4-3646bc2c45c9.md`
 
 ## 24 — stale (info)
 
-Episodic page sessions/ae47c263-74d3-473f-83db-67b52316a892.md is 54 days old with zero accesses
+Episodic page sessions/ae47c263-74d3-473f-83db-67b52316a892.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/ae47c263-74d3-473f-83db-67b52316a892.md`
 
 ## 25 — stale (info)
 
-Episodic page sessions/bb089a91-7dc2-41d3-abd8-3a697079b70c.md is 54 days old with zero accesses
+Episodic page sessions/bb089a91-7dc2-41d3-abd8-3a697079b70c.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/bb089a91-7dc2-41d3-abd8-3a697079b70c.md`
 
 ## 26 — stale (info)
 
-Episodic page sessions/ccb98527-ba3b-4101-a565-e476c1d73aa1.md is 54 days old with zero accesses
+Episodic page sessions/ccb98527-ba3b-4101-a565-e476c1d73aa1.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/ccb98527-ba3b-4101-a565-e476c1d73aa1.md`
 
 ## 27 — stale (info)
 
-Episodic page sessions/e2ebad12-3c4a-404a-ac40-a554a61d4c2b.md is 54 days old with zero accesses
+Episodic page sessions/e2ebad12-3c4a-404a-ac40-a554a61d4c2b.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/e2ebad12-3c4a-404a-ac40-a554a61d4c2b.md`
 
 ## 28 — stale (info)
 
-Episodic page sessions/8060fd78-be96-4135-b871-b1bacd2881e8.md is 54 days old with zero accesses
+Episodic page sessions/8060fd78-be96-4135-b871-b1bacd2881e8.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/8060fd78-be96-4135-b871-b1bacd2881e8.md`
 
 ## 29 — stale (info)
 
-Episodic page sessions/27c89bc7-da07-49fa-b215-c1d147572e47.md is 54 days old with zero accesses
+Episodic page sessions/27c89bc7-da07-49fa-b215-c1d147572e47.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/27c89bc7-da07-49fa-b215-c1d147572e47.md`
 
 ## 30 — stale (info)
 
-Episodic page sessions/c7c49ff6-ed82-4dff-8c57-f75489ac74c7.md is 54 days old with zero accesses
+Episodic page sessions/c7c49ff6-ed82-4dff-8c57-f75489ac74c7.md is 55 days old with zero accesses
 
 Pages:
 - `sessions/c7c49ff6-ed82-4dff-8c57-f75489ac74c7.md`
 
 ## 31 — stale (info)
 
-Episodic page sessions/23a331fd-d0e7-43a5-9bee-797b4c47d75c.md is 53 days old with zero accesses
+Episodic page sessions/23a331fd-d0e7-43a5-9bee-797b4c47d75c.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/23a331fd-d0e7-43a5-9bee-797b4c47d75c.md`
 
 ## 32 — stale (info)
 
-Episodic page sessions/091d1116-4fa4-4b2c-ac19-e56aa3338c00.md is 53 days old with zero accesses
+Episodic page sessions/091d1116-4fa4-4b2c-ac19-e56aa3338c00.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/091d1116-4fa4-4b2c-ac19-e56aa3338c00.md`
 
 ## 33 — stale (info)
 
-Episodic page sessions/13720a7d-eeaa-4c1f-bf28-6fafa863d508.md is 53 days old with zero accesses
+Episodic page sessions/13720a7d-eeaa-4c1f-bf28-6fafa863d508.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/13720a7d-eeaa-4c1f-bf28-6fafa863d508.md`
 
 ## 34 — stale (info)
 
-Episodic page sessions/6465f92d-79f3-4162-96e4-2d12043e69fb.md is 53 days old with zero accesses
+Episodic page sessions/6465f92d-79f3-4162-96e4-2d12043e69fb.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/6465f92d-79f3-4162-96e4-2d12043e69fb.md`
 
 ## 35 — stale (info)
 
-Episodic page sessions/4b830957-3a18-416d-9076-2b15b7a41d48.md is 53 days old with zero accesses
+Episodic page sessions/4b830957-3a18-416d-9076-2b15b7a41d48.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/4b830957-3a18-416d-9076-2b15b7a41d48.md`
 
 ## 36 — stale (info)
 
-Episodic page sessions/3f4cc322-3da4-46bf-bb25-01dc22d3818c.md is 53 days old with zero accesses
+Episodic page sessions/3f4cc322-3da4-46bf-bb25-01dc22d3818c.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/3f4cc322-3da4-46bf-bb25-01dc22d3818c.md`
 
 ## 37 — stale (info)
 
-Episodic page sessions/628c402c-4630-4750-bdb8-6d96b0a9a50e.md is 53 days old with zero accesses
+Episodic page sessions/628c402c-4630-4750-bdb8-6d96b0a9a50e.md is 54 days old with zero accesses
 
 Pages:
 - `sessions/628c402c-4630-4750-bdb8-6d96b0a9a50e.md`
 
 ## 38 — stale (info)
 
-Episodic page sessions/d1931690-4f48-4d7c-9fe8-54a262dafa0e.md is 50 days old with zero accesses
+Episodic page sessions/d1931690-4f48-4d7c-9fe8-54a262dafa0e.md is 51 days old with zero accesses
 
 Pages:
 - `sessions/d1931690-4f48-4d7c-9fe8-54a262dafa0e.md`
 
 ## 39 — stale (info)
 
-Episodic page sessions/fd4eb93c-810e-470a-b423-6efb3120fa7a.md is 50 days old with zero accesses
+Episodic page sessions/fd4eb93c-810e-470a-b423-6efb3120fa7a.md is 51 days old with zero accesses
 
 Pages:
 - `sessions/fd4eb93c-810e-470a-b423-6efb3120fa7a.md`
 
 ## 40 — stale (info)
 
-Episodic page sessions/beacd7ce-dc4b-44ef-8619-fcc2f9fa7a8f.md is 50 days old with zero accesses
+Episodic page sessions/beacd7ce-dc4b-44ef-8619-fcc2f9fa7a8f.md is 51 days old with zero accesses
 
 Pages:
 - `sessions/beacd7ce-dc4b-44ef-8619-fcc2f9fa7a8f.md`
 
 ## 41 — stale (info)
 
-Episodic page sessions/fb78855a-aae3-4a82-9c72-9f165a8630dd.md is 49 days old with zero accesses
+Episodic page sessions/fb78855a-aae3-4a82-9c72-9f165a8630dd.md is 50 days old with zero accesses
 
 Pages:
 - `sessions/fb78855a-aae3-4a82-9c72-9f165a8630dd.md`
 
 ## 42 — stale (info)
 
-Episodic page sessions/304580ea-0ca7-48d5-b4e5-0f30c5938d53.md is 47 days old with zero accesses
+Episodic page sessions/304580ea-0ca7-48d5-b4e5-0f30c5938d53.md is 48 days old with zero accesses
 
 Pages:
 - `sessions/304580ea-0ca7-48d5-b4e5-0f30c5938d53.md`
 
 ## 43 — stale (info)
 
-Episodic page sessions/8c63ca3b-8983-480a-aa53-da240e18d7ee.md is 47 days old with zero accesses
+Episodic page sessions/8c63ca3b-8983-480a-aa53-da240e18d7ee.md is 48 days old with zero accesses
 
 Pages:
 - `sessions/8c63ca3b-8983-480a-aa53-da240e18d7ee.md`
 
 ## 44 — stale (info)
 
-Episodic page sessions/a05c27cd-3347-4adc-9895-1f51674e69a7.md is 43 days old with zero accesses
+Episodic page sessions/a05c27cd-3347-4adc-9895-1f51674e69a7.md is 44 days old with zero accesses
 
 Pages:
 - `sessions/a05c27cd-3347-4adc-9895-1f51674e69a7.md`
 
 ## 45 — stale (info)
 
-Episodic page sessions/a865ccd1-5f3e-45bf-bc4f-903ec4e51d3e.md is 42 days old with zero accesses
+Episodic page sessions/a865ccd1-5f3e-45bf-bc4f-903ec4e51d3e.md is 43 days old with zero accesses
 
 Pages:
 - `sessions/a865ccd1-5f3e-45bf-bc4f-903ec4e51d3e.md`
 
 ## 46 — stale (info)
 
-Episodic page sessions/4f9ec37c-7256-4ab8-b531-b40996130a63.md is 42 days old with zero accesses
+Episodic page sessions/4f9ec37c-7256-4ab8-b531-b40996130a63.md is 43 days old with zero accesses
 
 Pages:
 - `sessions/4f9ec37c-7256-4ab8-b531-b40996130a63.md`
 
 ## 47 — stale (info)
 
-Episodic page sessions/89965ac0-ba96-414c-b072-b4371a814619.md is 42 days old with zero accesses
+Episodic page sessions/89965ac0-ba96-414c-b072-b4371a814619.md is 43 days old with zero accesses
 
 Pages:
 - `sessions/89965ac0-ba96-414c-b072-b4371a814619.md`
 
 ## 48 — stale (info)
 
-Episodic page sessions/07ebace1-db64-48d5-bf5f-bba2e84928f7.md is 42 days old with zero accesses
+Episodic page sessions/07ebace1-db64-48d5-bf5f-bba2e84928f7.md is 43 days old with zero accesses
 
 Pages:
 - `sessions/07ebace1-db64-48d5-bf5f-bba2e84928f7.md`
 
 ## 49 — stale (info)
 
-Episodic page sessions/6c0e5c9e-3e6d-4a6f-9def-ef537dea3b5f.md is 41 days old with zero accesses
+Episodic page sessions/6c0e5c9e-3e6d-4a6f-9def-ef537dea3b5f.md is 42 days old with zero accesses
 
 Pages:
 - `sessions/6c0e5c9e-3e6d-4a6f-9def-ef537dea3b5f.md`
 
 ## 50 — stale (info)
 
-Episodic page sessions/62722740-a91e-4800-97bc-bb4525b332c5.md is 41 days old with zero accesses
+Episodic page sessions/62722740-a91e-4800-97bc-bb4525b332c5.md is 42 days old with zero accesses
 
 Pages:
 - `sessions/62722740-a91e-4800-97bc-bb4525b332c5.md`
 
 ## 51 — stale (info)
 
-Episodic page sessions/15eb6d97-9530-4e57-98ac-0b65863bea9f.md is 39 days old with zero accesses
+Episodic page sessions/15eb6d97-9530-4e57-98ac-0b65863bea9f.md is 40 days old with zero accesses
 
 Pages:
 - `sessions/15eb6d97-9530-4e57-98ac-0b65863bea9f.md`
 
 ## 52 — stale (info)
 
-Episodic page sessions/e3c7f0a0-929c-4cdb-85b7-6d8c7d281156.md is 36 days old with zero accesses
+Episodic page sessions/e3c7f0a0-929c-4cdb-85b7-6d8c7d281156.md is 37 days old with zero accesses
 
 Pages:
 - `sessions/e3c7f0a0-929c-4cdb-85b7-6d8c7d281156.md`
 
 ## 53 — stale (info)
 
-Episodic page sessions/0ea4ac9a-dcfc-4c81-99e3-bffbc9c88e8a.md is 36 days old with zero accesses
+Episodic page sessions/0ea4ac9a-dcfc-4c81-99e3-bffbc9c88e8a.md is 37 days old with zero accesses
 
 Pages:
 - `sessions/0ea4ac9a-dcfc-4c81-99e3-bffbc9c88e8a.md`
 
 ## 54 — stale (info)
 
-Episodic page sessions/9ca1cf25-b2ef-4ada-be1d-6f2fd8327801.md is 35 days old with zero accesses
+Episodic page sessions/9ca1cf25-b2ef-4ada-be1d-6f2fd8327801.md is 36 days old with zero accesses
 
 Pages:
 - `sessions/9ca1cf25-b2ef-4ada-be1d-6f2fd8327801.md`
 
 ## 55 — stale (info)
 
-Episodic page sessions/011f861d-1619-40d9-a103-9733a4150b46.md is 35 days old with zero accesses
+Episodic page sessions/011f861d-1619-40d9-a103-9733a4150b46.md is 36 days old with zero accesses
 
 Pages:
 - `sessions/011f861d-1619-40d9-a103-9733a4150b46.md`
 
 ## 56 — stale (info)
 
-Episodic page sessions/9d79531a-926a-4c4c-84eb-ee0f91bc98ed.md is 33 days old with zero accesses
+Episodic page sessions/9d79531a-926a-4c4c-84eb-ee0f91bc98ed.md is 34 days old with zero accesses
 
 Pages:
 - `sessions/9d79531a-926a-4c4c-84eb-ee0f91bc98ed.md`
 
 ## 57 — stale (info)
 
-Episodic page sessions/396c4d03-a540-4583-a590-a09c107aeb1a.md is 33 days old with zero accesses
+Episodic page sessions/396c4d03-a540-4583-a590-a09c107aeb1a.md is 34 days old with zero accesses
 
 Pages:
 - `sessions/396c4d03-a540-4583-a590-a09c107aeb1a.md`
 
 ## 58 — stale (info)
 
-Episodic page sessions/b5ef497f-f67b-4099-9ce3-c462953a1493.md is 32 days old with zero accesses
+Episodic page sessions/b5ef497f-f67b-4099-9ce3-c462953a1493.md is 33 days old with zero accesses
 
 Pages:
 - `sessions/b5ef497f-f67b-4099-9ce3-c462953a1493.md`
 
 ## 59 — stale (info)
 
-Episodic page sessions/967bc34e-07d6-4236-8bbf-33a68d8267c8.md is 32 days old with zero accesses
+Episodic page sessions/967bc34e-07d6-4236-8bbf-33a68d8267c8.md is 33 days old with zero accesses
 
 Pages:
 - `sessions/967bc34e-07d6-4236-8bbf-33a68d8267c8.md`
@@ -437,14 +437,6 @@ Pages:
 
 ## 61 — duplicate (warning)
 
-Multiple pages share title "address all pr comments and reviews and be critic about them."
-
-Pages:
-- `sessions/c7c49ff6-ed82-4dff-8c57-f75489ac74c7.md`
-- `sessions/fd4eb93c-810e-470a-b423-6efb3120fa7a.md`
-
-## 62 — duplicate (warning)
-
 Multiple pages share title "/caveman"
 
 Pages:
@@ -458,11 +450,19 @@ Pages:
 - `sessions/23a331fd-d0e7-43a5-9bee-797b4c47d75c.md`
 - `sessions/091d1116-4fa4-4b2c-ac19-e56aa3338c00.md`
 
-## 63 — duplicate (warning)
+## 62 — duplicate (warning)
 
 Multiple pages share title "your qa manual testing guide should include the curl commands for each endpoint…"
 
 Pages:
 - `sessions/4a14ad7f-98b9-4dac-b464-a96b1bf34c97.md`
 - `sessions/095e7205-3ee6-455e-9538-ac186d6d4b7a.md`
+
+## 63 — duplicate (warning)
+
+Multiple pages share title "address all pr comments and reviews and be critic about them."
+
+Pages:
+- `sessions/c7c49ff6-ed82-4dff-8c57-f75489ac74c7.md`
+- `sessions/fd4eb93c-810e-470a-b423-6efb3120fa7a.md`
 
