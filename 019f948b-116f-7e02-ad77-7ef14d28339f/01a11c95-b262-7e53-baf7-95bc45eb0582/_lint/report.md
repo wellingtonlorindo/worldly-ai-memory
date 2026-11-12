@@ -1,17 +1,38 @@
 ---
-title: Lint report 2026-11-11
+title: Lint report 2026-11-12
 tier: semantic
 kind: lint-report
 type: Lint Report
 generated:
   by: process:ai-memory/2.6.1
-  at: 2026-11-11T20:47:46Z
+  at: 2026-11-12T21:12:18Z
 ---
 # Lint findings
 
-4 finding(s).
+7 finding(s).
 
-## 1 — duplicate (warning)
+## 1 — stale (info)
+
+Episodic page sessions/1a230b09-c453-46b7-97c5-8358ca9d702a.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/1a230b09-c453-46b7-97c5-8358ca9d702a.md`
+
+## 2 — stale (info)
+
+Episodic page sessions/dbe34fb8-3af5-4546-8420-0e35cfa420b2.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/dbe34fb8-3af5-4546-8420-0e35cfa420b2.md`
+
+## 3 — stale (info)
+
+Episodic page sessions/9b96daa8-6423-4211-8588-c7a2a380359e.md is 30 days old with zero accesses
+
+Pages:
+- `sessions/9b96daa8-6423-4211-8588-c7a2a380359e.md`
+
+## 4 — duplicate (warning)
 
 Multiple pages share title "user-prompt"
 
@@ -37,8 +58,10 @@ Pages:
 - `sessions/5e75e664-bb31-4ff1-9beb-7a2381f5afc2.md`
 - `sessions/532401d3-d4d6-4c7c-9141-b16779f56558.md`
 - `sessions/8879809d-7a70-40a2-aa05-4d14b33789ba.md`
+- `sessions/2c598f9a-303c-401a-9cc4-921ccd2ddd8c.md`
+- `sessions/d9126f44-8d83-40be-b6b9-3901f496192c.md`
 
-## 2 — duplicate (warning)
+## 5 — duplicate (warning)
 
 Multiple pages share title "think hard and take some time to update the branch and review the related ticke…"
 
@@ -46,7 +69,7 @@ Pages:
 - `sessions/35617f5b-c662-4ed0-af31-b0083d23e26f.md`
 - `sessions/6a0460de-4cad-4967-9888-c281491fd816.md`
 
-## 3 — duplicate (warning)
+## 6 — duplicate (warning)
 
 Multiple pages share title "update the branch and fix all conflicts then push"
 
@@ -54,7 +77,7 @@ Pages:
 - `sessions/0ba9e830-17a2-4fab-b97d-c9e9d51d9e32.md`
 - `sessions/7e540760-8460-4c80-b3ae-01d2775a5fb6.md`
 
-## 4 — duplicate (warning)
+## 7 — duplicate (warning)
 
 Multiple pages share title "/open-code-review:review"
 
